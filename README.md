@@ -16,7 +16,7 @@
 
 ### 💻 About Me :
 
-- :telescope: Je suis actuellement étudiant à l'ESTIAM
+- :telescope: Étudiant à l'ÉSTIAM Metz
 
 - :desktop_computer: Alternant chez EDF
 
